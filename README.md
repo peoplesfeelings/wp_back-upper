@@ -1,6 +1,4 @@
-I'm just putting this on GitHub so it's easier to track any changes. 
-
-The idea of this script is you can run it from anywhere, and it does a mysqldump and ZIP archive. You can tell it where to put those. Before doing the backup it checks free space and displays directory information and size, and then the user confirms, to execute the backup. Just tell it the directory of the site, and it checks the wp-config to get the db name, user and pass. 
+Run it from anywhere, and it does a mysqldump and ZIP archive. You tell it where to put those. Before doing the backup it checks free space and displays directory information and size, and then the user confirms, to execute the backup. Just tell it the directory of the site, and it checks the wp-config to get the db name, user and pass. 
 
 ## Usage 
 
